@@ -1,0 +1,178 @@
+
+h1 a {
+	font-size: 52px;
+	color: #F9D483;
+	font-family: Lato;
+	font-weight: 300;
+	text-decoration: none;
+}
+
+h2 {
+	color: #888888;
+	font-family: Lato;
+	font-weight: 300;
+}
+
+#inline {
+	display: block;
+    position: relative;
+    padding: 0px
+}
+
+
+#grey {
+	max-width: 1080px;
+    background: #b0b6bb;
+}
+
+nav ul {
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    list-style: none;
+    float: left;
+    text-align: center;
+    width: calc(100% / 6);
+    border-right: 1px solid #ffffff;
+    box-sizing: border-box;
+}
+
+nav li a {
+	font-size: 22px;
+	color: #ffffff;
+	background: #b0b6bb;
+	font-family: Lato;
+	font-weight: 300;
+	padding: 20px 50px 20px 50px;
+	border: 1px solid #b0b6bb;
+	display: inline-block;
+	text-decoration: none;
+	margin-bottom: : 10px;
+	max-width: 100%;
+	width: cover;
+
+}
+
+#footer a {
+	font-size: 18px;
+	color: #F9D483;
+	font-family: Lato;
+	font-weight: 400;
+	text-decoration: none;
+	background: #ffffff;
+	padding: 0px 10px 0px 3px;
+	border: 1px solid #ffffff;
+	border-right: 1px solid #dddddd;
+}
+
+h3 {
+	margin-top: 60px;
+	margin-bottom: -15px;
+	font-size: 36px;
+	color: #D2D2D2;
+	font-family: Lato;
+	font-weight: 200;
+}
+
+h2 a {
+	font-family: Lato;
+	font-size: 36px;
+	font-weight: 300;
+	text-decoration: none;
+	color: #000000;
+}
+
+
+
+h4 {
+	color: #888888;
+	font-family: Lato;
+	font-size: 20px;
+	font-weight: 600;
+	text-decoration: none;
+	margin-bottom: 30px;
+}
+
+h4 a {
+	color: #F9D483;
+	font-family: Lato;
+	font-size: 20px;
+	font-weight: 600;
+	text-decoration: none;
+	float: right;
+	margin-bottom: 30px;
+}
+
+p {
+	font-family: Lato;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 30px;
+}
+
+.article::first-letter {
+	float: left;
+	font-size: 100px;
+	color: #dddddd;
+	margin: 20px 12px 20px 0px;
+}
+
+ul {
+	font-family: Lato;
+	color: #888888;
+	font-size: 18px;
+	font-weight: 300;
+	line-height: 30px;
+}
+
+ul a {
+
+	font-family: Lato;
+	font-size: 18px;
+	text-decoration: none;
+}
+
+
+#copy {
+	font-size: 18px;
+	color: #b0b6bb;
+	margin-bottom: 50px;
+}
+
+.modulead {	
+	width: 100%;
+	max-width: 300px;
+	margin: 30px 0px 30px 0px;
+}
+
+img {
+	width: 100%;
+	max-width: 720px;
+}
+
+hr {
+	clear: both;
+}
+
+section {
+    width: 50%;
+    max-width: 720px;
+    float: left;
+    padding-right: 20px; 
+
+}
+
+aside {
+	margin: 100px 0px 0px 20px;
+  	width: 25%;
+  	max-width: 320px;
+  	float: left;
+
+}
+
+footer {
+	margin-top: 50px;
+}
